@@ -95,7 +95,7 @@ header{
     height: 100%;
     object-fit: cover; /*Essa propriedade instrui o conteúdo a preencher o contêiner de várias maneiras; como "preservar essa proporção de aspecto" ou "esticar e ocupar o máximo de espaço possível".*/
     opacity: 0.7 ;
-    animation: zoom 25s ;
+    animation: zoom 25s ; /*@keyframes*/
 }
 
 @keyframes zoom {
